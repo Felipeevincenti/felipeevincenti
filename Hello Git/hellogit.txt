@@ -1,0 +1,39 @@
+
+------------------------ COMANDOS PARA LA CONSOLA ------------------------
+
+DIR - Podemos ver los elementos que hay dentro de la carpeta en la que estemos
+
+MKDIR NOMBREDELDIRECTORIO - Crea una carpeta dentro de la ubicacion que estemos
+
+COPY CON ARCHIVO.EXTENSION - Crea un archivo - despues de ese comando tenemos que escribir lo que sea, puede ser un salto de linea y hacer ctrl + c
+
+GIT ADD NOMBREDELFICHERO - Dentro de la carpeta donde esta el archivo que queremos usar git se hace git add nombredelfichero
+
+CD - Sirve para moverse entre carpetas/archivos, si hacemos cd.. retrocedemos uno y si hacemos cd nombrecarpeta/archivo entramos. Se puede usar tab para completar rapido el nombre de la carpeta/archivo
+
+GIT INIT - Para iniciar git en una carpeta/archivo
+
+GIT STATUS - Podemos ver el estado de los archivos dentro de una carpeta
+
+GIT LOG - Muestra los git commits {
+    distintos tipos de git log {
+        git log --graph
+        git log --graph --pretty=oneline
+        git log --graph --decore --oneline
+    }
+} 
+
+GIT COMMIT - Es para crear un punto de guardado en un archivo
+
+GIT RESET - Nos muestra los archivos que podemos resetear porque estan modificados
+
+GIT CHECKOUT - Se restaura la informacion en el momento que hicimos git commit
+
+
+
+Podemos crear alias para acceder rapido a un comando 
+
+EJ: git config --global alias.tree "log --graph --decorate --all --oneline"
+
+Esto hace que cada vez que escriba 'git tree' me va a ejecutar lo que esta entre comillas ("log --graph --decorate --all --oneline")
+
