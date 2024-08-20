@@ -66,20 +66,13 @@ Intro end-->
 </div>
 
 
+
 <!--icons and links-->
 <p align="center">
-<a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3f12835f-d1bb-4878-906e-a7416a768ca4" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0da76b74-0861-49f3-98bc-c91307b55f00" alt="instagram" height="50" width="50" /></a>
   <a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f0de83e2-c7e3-4759-84d6-705b731fff9d" alt="instagram" height="50" width="50" /></a>
   <a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/82a7b866-4e4a-4ff9-b5a0-b8eef5c3f8f2" alt="instagram" height="50" width="50" /></a>
 </p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 
 <!--horizontal divider(gradiant)-->
