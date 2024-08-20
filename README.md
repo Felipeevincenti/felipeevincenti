@@ -69,9 +69,9 @@ Intro end-->
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0da76b74-0861-49f3-98bc-c91307b55f00" alt="instagram" height="50" width="50" /></a>
+<a href="https://felipevincenti.netlify.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0da76b74-0861-49f3-98bc-c91307b55f00" alt="instagram" height="50" width="50" /></a>
   <a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f0de83e2-c7e3-4759-84d6-705b731fff9d" alt="instagram" height="50" width="50" /></a>
-  <a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/82a7b866-4e4a-4ff9-b5a0-b8eef5c3f8f2" alt="instagram" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/felipe-vincenti-949b2b265/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/82a7b866-4e4a-4ff9-b5a0-b8eef5c3f8f2" alt="instagram" height="50" width="50" /></a>
 </p>
 
 
