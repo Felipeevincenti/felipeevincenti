@@ -68,11 +68,9 @@ Intro end-->
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/felipeevincenti/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/a33fc8ee-63da-48b9-a43d-bc909cbfa31d" alt="instagram" height="50" width="50" /></a>
-<a href="https://felipevincenti.netlify.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/579191f8-872c-4f0c-b070-37212af4ec4b" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/felipeevincenti" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  <img src="https://skillicons.dev/icons?i=instagram" />
+<a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3f12835f-d1bb-4878-906e-a7416a768ca4" alt="instagram" height="50" width="50" /></a>
+  <a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f0de83e2-c7e3-4759-84d6-705b731fff9d" alt="instagram" height="50" width="50" /></a>
+  <a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/82a7b866-4e4a-4ff9-b5a0-b8eef5c3f8f2" alt="instagram" height="50" width="50" /></a>
 </p>
 
 
