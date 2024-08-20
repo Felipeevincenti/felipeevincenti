@@ -24,21 +24,6 @@
   </ul>
 </div>
 
-
-
-
-
-  <img  src="https://github.com/user-attachments/assets/4e8123d7-4c75-43be-8893-3b2ef839d4ba"
-       alt="snake" />
-  <img  src="https://github.com/user-attachments/assets/82838348-1910-43f8-b976-c2aa38ab66ab"
-       alt="snake" />
-  <img  src="https://github.com/user-attachments/assets/4e8123d7-4c75-43be-8893-3b2ef839d4ba"
-       alt="snake" />
-
-
-  <img  src="https://github.com/user-attachments/assets/b3d0ebff-ef54-4c54-a0e7-16e6e375294f"
-       alt="snake" />
-
 <!--Intro start
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
@@ -64,7 +49,7 @@ Intro end-->
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,ts,nodejs,mongodb,express,socket.io,socket,socketio,git,discord,github,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,ts,angular,nodejs,mongodb,express,git,github,postman,vscode,discord" />
   </a>
 </p>
 
