@@ -68,7 +68,7 @@ Intro end-->
 <a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/a33fc8ee-63da-48b9-a43d-bc909cbfa31d" alt="instagram" height="50" width="50" /></a>
 <a href="https://felipevincenti.netlify.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 <a href="https://discordapp.com/felipeevincenti" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </p>
 
 
@@ -82,8 +82,3 @@ Intro end-->
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
