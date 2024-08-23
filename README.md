@@ -1,7 +1,3 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -65,7 +61,3 @@ Intro end-->
   <a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f0de83e2-c7e3-4759-84d6-705b731fff9d" alt="instagram" height="50" width="50" /></a>
   <a href="https://www.linkedin.com/in/felipe-vincenti-949b2b265/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/82a7b866-4e4a-4ff9-b5a0-b8eef5c3f8f2" alt="instagram" height="50" width="50" /></a>
 </p>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
