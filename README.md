@@ -68,7 +68,7 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://felipevincenti.netlify.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0da76b74-0861-49f3-98bc-c91307b55f00" alt="instagram" height="50" width="50" /></a>
-  <a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f0de83e2-c7e3-4759-84d6-705b731fff9d" alt="instagram" height="50" width="50" /></a>
-  <a href="https://www.linkedin.com/in/felipe-vincenti-949b2b265/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0eddf0f1-cc8e-4042-bd1b-5c617edbace1" alt="instagram" height="50" width="50" /></a>
+  <a href="https://felipevincenti.netlify.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0eddf0f1-cc8e-4042-bd1b-5c617edbace1" alt="instagram" height="50" width="50" /></a>
+  <a href="https://www.instagram.com/felipeevincenti/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ea09fdbb-e3a2-4f38-919b-d758c09675a9" alt="instagram" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/felipe-vincenti-949b2b265/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2bc20c65-8ba3-475f-88bb-652bd99eab16" alt="instagram" height="50" width="50" /></a>
 </p>
