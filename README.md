@@ -15,7 +15,7 @@
   </ul>
 </div>
 
-<!--Intro start
+<!--Intro start-->
 ⚪ Actualmente me estoy especializando en el Stack MEAN a través de proyectos personales.**
 
 ⚪ Conóceme mejor viendo mi portafolio: https://felipevincenti.netlify.app.**
