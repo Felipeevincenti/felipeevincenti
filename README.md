@@ -16,20 +16,14 @@
 </div>
 
 <!--Intro start
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+⚪ Actualmente me estoy especializando en el Stack MEAN a través de proyectos personales.**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+⚪ Conóceme mejor viendo mi portafolio: https://felipevincenti.netlify.app.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+⚪ Estoy entusiasmado por unirme a una empresa que valore el aprendizaje continuo, donde pueda seguir creciendo profesionalmente y aplicar todo lo que he aprendido para contribuir al éxito del equipo.**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+⚪ Me gusta jugar a videojuegos y al basquet.**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-Intro end-->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
