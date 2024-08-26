@@ -25,17 +25,34 @@
 - Me gusta jugar a videojuegos y al basquet.
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
+<!--h1 without bottom border--> 
+<div id="user-content-toc"> 
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías 👨🏻‍💻</h2></summary> 
+  </ul> 
+</div> 
+
+<!--tech stack icons--> 
+<p align="center"> 
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,ts,angular,nodejs,mongodb,express" /> </a> 
+</p> 
+<p align="center"> 
+  <small> HTML, CSS, Sass, Bootstrap: Diseño y maquetación web.<br> JavaScript, jQuery, TypeScript: Programación web interactiva.<br> Angular, Node.js, Express: Desarrollo de aplicaciones web full-stack.<br> MongoDB: Base de datos NoSQL. </small> 
+</p> 
+
+<!--h1 without bottom border--> 
+<div id="user-content-toc"> 
+  <ul align="center"> 
+    <summary><h2 style="display: inline-block">Herramientas 🛠</h2></summary> 
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,ts,angular,nodejs,mongodb,express,git,github,postman,vscode,discord" />
-  </a>
+
+<!--tech stack icons--> 
+<p align="center"> 
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,discord" /> </a> 
+</p>
+<p align="center"> 
+  <small> Git, GitHub: Control de versiones y colaboración en proyectos.<br> Postman: Pruebas y documentación de APIs.<br> VSCode: Entorno de desarrollo integrado.<br> Discord: Comunicación con comunidades y equipos. </small> 
 </p>
 
 
