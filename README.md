@@ -16,13 +16,13 @@
 </div>
 
 <!--Intro start-->
-⚪ Actualmente me estoy especializando en el Stack MEAN a través de proyectos personales.**
+- Actualmente me estoy especializando en el Stack MEAN a través de proyectos personales.
 
-⚪ Conóceme mejor viendo mi portafolio: https://felipevincenti.netlify.app.**
+- Conóceme mejor viendo mi portafolio: https://felipevincenti.netlify.app.
 
-⚪ Estoy entusiasmado por unirme a una empresa que valore el aprendizaje continuo, donde pueda seguir creciendo profesionalmente y aplicar todo lo que he aprendido para contribuir al éxito del equipo.**
+- Estoy entusiasmado por unirme a una empresa que valore el aprendizaje continuo, donde pueda seguir creciendo profesionalmente y aplicar todo lo que he aprendido para contribuir al éxito del equipo.
 
-⚪ Me gusta jugar a videojuegos y al basquet.**
+- Me gusta jugar a videojuegos y al basquet.
 
 
 <!--h1 without bottom border-->
