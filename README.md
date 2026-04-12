@@ -34,7 +34,7 @@
 
 <!--tech stack icons--> 
 <p align="center"> 
-  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,ts,angular,nodejs,mongodb,express,python" /> </a> 
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,ts,angular,nodejs,mongodb,express,next" /> </a> 
 </p> 
 <p align="center"> 
   <small> HTML, CSS, Sass, Bootstrap: Diseño y maquetación web.<br> JavaScript, jQuery, TypeScript: Programación web interactiva.<br> Angular, Node.js, Express: Desarrollo de aplicaciones web full-stack.<br> MongoDB: Base de datos NoSQL. </small> 
