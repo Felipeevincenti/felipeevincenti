@@ -37,7 +37,7 @@
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,ts,angular,nodejs,mongodb,express" /> </a> 
 </p> 
 <p align="center"> 
-  <small> HTML, CSS, Sass, Bootstrap: Diseño y maquetación web.<br> JavaScript, jQuery, TypeScript: Programación web interactiva.<br> Angular, Node.js, Express: Desarrollo de aplicaciones web full-stack.<br> MongoDB: Base de datos NoSQL. </small> 
+  <small> HTML, CSS, Sass, Bootstrap: Diseño y maquetación web.<br> JavaScript, jQuery, TypeScript: Programación web interactiva.<br> Angular, Node.js, Express, Python: Desarrollo de aplicaciones web full-stack.<br> MongoDB: Base de datos NoSQL. </small> 
 </p> 
 
 <!--h1 without bottom border--> 
